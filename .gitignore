@@ -3,6 +3,7 @@ npm-debug.log
 *.iml
 .idea
 git
+package-lock.json
 
 # dependencies
 /node_modules
